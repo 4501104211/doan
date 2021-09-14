@@ -15,4 +15,4 @@ Learn React Native (Expo CLI) by easy-to-difficult examples.
 - Run on both Android & iOS: `yarn mobile` (or `npm run mobile`).
 
 ### ảnh demo
-![Tên ảnh](https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.haposoft.com%2Fcontent%2Fimages%2F2020%2F10%2Freact_native_vs_native_apps.png&imgrefurl=https%3A%2F%2Fblog.haposoft.com%2Freact-native-cach-tao-mot-native-module-tren-android%2F&tbnid=nkyYWR-J_xvnhM&vet=12ahUKEwiD--PsgP7yAhUSvJQKHVTgDPIQMygDegUIARCyAQ..i&docid=EZdCEgYAWWcN4M&w=1200&h=628&q=react%20native&ved=2ahUKEwiD--PsgP7yAhUSvJQKHVTgDPIQMygDegUIARCyAQ)
+<img src="https://user-images.githubusercontent.com/12640832/94335654-33471680-0007-11eb-8c5e-ef04bd211907.png" width="250" alt="Momo Login Screen" /> <img src="https://user-images.githubusercontent.com/12640832/87783634-14861000-c85f-11ea-92cb-ff99ee1f46da.png" width="250" alt="Facebook Login Screen" />
