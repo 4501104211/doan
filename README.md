@@ -2,7 +2,7 @@
 
 Learn React Native (Expo CLI) by easy-to-difficult examples.
 
-## Run project in development
+## Cách cài đặt Project
 
 - Setting up the development environment: https://reactnative.dev/docs/environment-setup.
 
@@ -14,12 +14,13 @@ Learn React Native (Expo CLI) by easy-to-difficult examples.
 
 - Run on both Android & iOS: `yarn mobile` (or `npm run mobile`).
 
-### ảnh demo
-<img src="./img/mobile-reactnative.png" width="250" alt="Momo Login Screen" /> <img src="./img/mobile-reactnative2.png" width="250" alt="Facebook Login Screen" />
-
 ## Video demo
 
-To see a demo video, click the screenshot (right). =>
+Để thấy video Demo Click (right). =>
 <a style="float:right" href="https://drive.google.com/file/d/1TP02eXO3AyUoLmQBWgmFIgTUIpCQsLnR/view" target="_blank">
-  <img alt="PicSciP Demo Video" src="./img/mobile-reactnative.png" width="276" height="537" />
+  <img alt="PicSciP Demo Video" src="./img/mobile-reactnative3.png" width="250" height="300" />
 </a>
+
+### ảnh demo
+<img src="./img/mobile-reactnative.png" width="250" height="250" alt="Momo Login Screen" /> <img src="./img/mobile-reactnative2.png" width="250" height="250" alt="Facebook Login Screen" />
+
