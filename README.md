@@ -18,9 +18,9 @@ Learn React Native (Expo CLI) by easy-to-difficult examples.
 
 Để thấy video Demo Click (right). =>
 <a style="float:right" href="https://drive.google.com/file/d/1TP02eXO3AyUoLmQBWgmFIgTUIpCQsLnR/view" target="_blank">
-  <img alt="PicSciP Demo Video" src="./img/mobile-reactnative3.png" width="250" height="300" />
+  <img alt="PicSciP Demo Video" src="./img/mobile-reactnative3.png" width="250" height="400" />
 </a>
 
 ### ảnh demo
-<img src="./img/mobile-reactnative.png" width="250" height="250" alt="Momo Login Screen" /> <img src="./img/mobile-reactnative2.png" width="250" height="250" alt="Facebook Login Screen" />
+<img src="./img/mobile-reactnative.png" width="250" height="400" alt="Momo Login Screen" /> <img src="./img/mobile-reactnative2.png" width="250" height="400" alt="Facebook Login Screen" />
 
